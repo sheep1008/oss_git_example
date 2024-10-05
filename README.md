@@ -20,8 +20,9 @@
 -------------
 ### Week2-2 Git
 * Git 설치 방법
+  * 1234
 * Git 기본 명령어
-
+  * 5678
 ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
 
 -------------
