@@ -27,9 +27,9 @@
 -------------
 ### Week2-3 Github, fork, pull request
 * Github의 개념.  
-  Github는 Git 저장소를 호스팅하는 서비스입니다.  
+  Github는 오픈소스가 있는 곳    
 * Fork와 Pull Request의 이해.  
-  Fork는 원본 프로젝트를 복사하는 것이고, Pull Request는 변경사항을 제안하는 것입니다. 
+  Fork는 원본 프로젝트를 복사하는 것, Pull Request는 변경사항을 제안하는 것  
 
 [My Github Blog](https://github.com/sheep1008)
 
