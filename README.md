@@ -31,7 +31,7 @@
 * Fork와 Pull Request의 이해.  
   Fork는 원본 프로젝트를 복사하는 것이고, Pull Request는 변경사항을 제안하는 것입니다. 
 
-[My Github Blog](https://github.com/kkanuseobin)
+[My Github Blog](https://github.com/sheep1008)
 
 -------------
 ### Week3 Markdown
