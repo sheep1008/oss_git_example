@@ -1,4 +1,4 @@
-# **오픈소스SW개발론**
+# _**오픈소스SW개발론**_
 
 ### Introduction
 
@@ -22,14 +22,14 @@
 * Git 설치 방법
 * Git 기본 명령어
 
-![Git Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Git-logo.svg)
+![Git Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
 
 -------------
 ### Week2-3 Github, fork, pull request
-* Github의 개념
-  > Github는 Git 저장소를 호스팅하는 서비스입니다.
-* Fork와 Pull Request의 이해
-  > Fork는 원본 프로젝트를 복사하는 것이고, Pull Request는 변경사항을 제안하는 것입니다.
+* Github의 개념.  
+  Github는 Git 저장소를 호스팅하는 서비스입니다.  
+* Fork와 Pull Request의 이해.  
+  Fork는 원본 프로젝트를 복사하는 것이고, Pull Request는 변경사항을 제안하는 것입니다. 
 
 [My Github Blog](https://github.com/kkanuseobin)
 
